@@ -1,0 +1,19 @@
+Package: treemantools
+Type: Package
+Title: Extended methods for treeman
+Version: 0.1.0
+Author: D.J. Bennett
+Maintainer: D.J. Bennett <dominic.john.bennett@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+LazyData: TRUE
+Depends:
+    R (>= 3.1.2),
+    methods,
+    plyr,
+    RJSONIO,
+    stringr,
+    treeman
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
